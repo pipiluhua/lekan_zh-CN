@@ -1,0 +1,2355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: zh_CN\n"
+"X-Source-Language: C\n"
+"X-Qt-Contexts: true\n"
+"X-Generator: Poedit 3.8\n"
+
+msgctxt "ReosImportFromTextFile|"
+msgid ","
+msgstr ","
+
+msgctxt "ReosImportFromTextFile|"
+msgid ";"
+msgstr ";"
+
+msgctxt "ReosImportFromTextFile|"
+msgid "space"
+msgstr "空间"
+
+msgctxt "ReosImportFromTextFile|"
+msgid "First data line"
+msgstr "第一条数据线"
+
+msgctxt "ReosImportFromTextFile|"
+msgid "Delimiters:"
+msgstr "分隔符:"
+
+msgctxt "ReosImportFromTextFile|"
+msgid "Choose file"
+msgstr "选择文件"
+
+msgctxt "ReosImportFromTextFile|"
+msgid "Import Text File"
+msgstr "导入文本文件"
+
+msgctxt "ReosImportFromTextFile|"
+msgid "File does not exist!"
+msgstr "文件不存在!"
+
+msgctxt "ReosImportFromTextFile|"
+msgid "Header line"
+msgstr "标题行"
+
+msgctxt "ReosImportFromTextFile|"
+msgid "Import From Text File"
+msgstr "从文本文件导入"
+
+msgctxt "ReosImportFromTextFile|"
+msgid "Text file"
+msgstr "文本文件"
+
+msgctxt "ReosMainWindow|"
+msgid "?"
+msgstr "?"
+
+msgctxt "ReosMainWindow|"
+msgid "File"
+msgstr "文件"
+
+msgctxt "ReosMainWindow|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "ReosMainWindow|"
+msgid "Open a project"
+msgstr "打开工程"
+
+msgctxt "ReosMainWindow|"
+msgid "Check new version"
+msgstr "检查新版本"
+
+msgctxt "ReosMainWindow|"
+msgid "Message"
+msgstr "消息"
+
+msgctxt "ReosMainWindow|"
+msgid "Options"
+msgstr "选项"
+
+msgctxt "ReosMainWindow|"
+msgid "About ..."
+msgstr "关于 ..."
+
+msgctxt "ReosMainWindow|"
+msgid "Save as ..."
+msgstr "另存为 ..."
+
+msgctxt "ReosMainWindow|"
+msgid "Select language"
+msgstr "选择语音"
+
+msgctxt "ReosMainWindow|"
+msgid "New project"
+msgstr "新工程"
+
+msgctxt "ReosMainWindow|"
+msgid "New Project"
+msgstr "新工程"
+
+msgctxt "ReosMainWindow|"
+msgid "Open file"
+msgstr "打开文件"
+
+msgctxt "ReosMainWindow|"
+msgid "Save project as"
+msgstr "工程另存为"
+
+msgctxt "ReosMainWindow|"
+msgid "Save current project?"
+msgstr "保持当前工程?"
+
+msgctxt "ReosMainWindow|"
+msgid "Closing current project"
+msgstr "关闭当前工程"
+
+msgctxt "ReosMainWindow|"
+msgid "The current project has been modified, do you want to save it?"
+msgstr "当前项目已被修改，是否要保存？"
+
+msgctxt "ReosMainWindow|"
+msgid "Documentation"
+msgstr "文档"
+
+msgctxt "QObject|"
+msgid "a"
+msgstr "公畝"
+
+msgctxt "QObject|"
+msgid "b"
+msgstr "b"
+
+msgctxt "QObject|"
+msgid "c"
+msgstr "c"
+
+msgctxt "QObject|"
+msgid "d"
+msgstr "d"
+
+msgctxt "QObject|"
+msgid "h"
+msgstr "h"
+
+msgctxt "QObject|"
+msgid "n"
+msgstr "n"
+
+msgctxt "QObject|"
+msgid "s"
+msgstr "s"
+
+msgctxt "QObject|"
+msgid "ha"
+msgstr "ha"
+
+msgctxt "QObject|"
+msgid "mn"
+msgstr "mn"
+
+msgctxt "QObject|"
+msgid "ms"
+msgstr "ms"
+
+msgctxt "QObject|"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "QObject|"
+msgid "Time"
+msgstr "时间"
+
+msgctxt "QObject|"
+msgid "week"
+msgstr "周"
+
+msgctxt "QObject|"
+msgid "year"
+msgstr "年"
+
+msgctxt "QObject|"
+msgid "Where:<br>- Δt : the time step of the runoff<br>- t<sub>l</sub> : the lag time<br>- A : the watershed area<br>- r : the runoff intensity or the effective rainfall intensity during the time step in mm per unit time<br>- Q<sub>0</sub> = 0"
+msgstr "在:<br>- Δt : 径流的时间步长<br>- t<sub>c</sub> : 滞后时间<br>- A :汇水区面积<br>- r :时间步长内的径流强度或有效降雨强度，单位为毫米(mm)/单位时间<br>- Q<sub>0</sub> = 0"
+
+msgctxt "QObject|"
+msgid "month"
+msgstr "月"
+
+msgctxt "QObject|"
+msgid "weeks"
+msgstr "周"
+
+msgctxt "QObject|"
+msgid "years"
+msgstr "年"
+
+msgctxt "QObject|"
+msgid "Rainfall intensity (mm/h)"
+msgstr "降雨強度(mm/h)"
+
+msgctxt "QObject|"
+msgid "SCS Unit Hydrograph"
+msgstr "SCS 单位线"
+
+msgctxt "QObject|"
+msgid "Hydrograph to inject"
+msgstr "注入水文图"
+
+msgctxt "QObject|"
+msgid "Nash Unit Hydrograph"
+msgstr "Nash单位线"
+
+msgctxt "QObject|"
+msgid "Linear reservoir"
+msgstr "线性蓄水库"
+
+msgctxt "QObject|"
+msgid "Meteorologic model name"
+msgstr "气象模型名称"
+
+msgctxt "QObject|"
+msgid "Where:<br>- Q<sub>p</sub> : the peak flow rate for an effective rainfall height or a runoff of 1 cm<br>- T<sub>p</sub> : the time of the peak in hours<br>- A : the watershed area in km<sup>2</sup><br>- P<sub>f</sub> : the peak factor between 100 and 600 with a typical value of 484<br> Peak factor with high value is for watershed with quick reaction (mountain), and lower values are for slower watersheds (plain)."
+msgstr "在:<br> -Q<sub>p</sub>: 有效降雨高度或1cm径流的峰值流量 <br>- T<sub>p</sub>: 高峰时间（小时）<br>- A : 汇水区面积（单位：km）<sup>2</sup><br>- P<sub>f</sub> : 峰值因子在100到600之间，典型值为484<br> 高值的峰值因子适用于反应快的汇水区（山区），低值适用于反应慢的汇水区（平原）。"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Lag time from concentration time: %1"
+msgstr "从集中时间到滞后时间: %1"
+
+msgctxt "QObject|"
+msgid "monthes"
+msgstr "月"
+
+msgctxt "QObject|"
+msgid "Gauged hydrograph"
+msgstr "测量水文图"
+
+msgctxt "QObject|"
+msgid "Gauged Hydrograph"
+msgstr "测量水文图"
+
+msgctxt "QObject|"
+msgid "Unregister as Digital Elevation Model"
+msgstr "注销为数字高程模型"
+
+msgctxt "QObject|"
+msgid "Reload"
+msgstr "重新加载"
+
+msgctxt "QObject|"
+msgid "No station selected"
+msgstr "沒有选择测站"
+
+msgctxt "QObject|"
+msgid "The SCS Unit Hydrograph defines a Unit Hydrograph with predefined hydrograph shapes depending on a peak factor.<br>This peak factor links the peak flow rate and the peak time as below:"
+msgstr "SCS单位水文图根据峰值系数定义了具有预定义水文图形状的单位水文图。<br>该峰值系数将峰值流量和峰值时间联系起来，如下所示："
+
+msgctxt "QObject|"
+msgid ", instant value"
+msgstr "，瞬时值"
+
+msgctxt "QObject|"
+msgid "Cumulative rainfall (mm)"
+msgstr "累计降雨量(mm)"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Initial retention: %1 mm"
+msgstr "初始保留: %1mm"
+
+msgctxt "QObject|"
+msgid "The Generalized Rational Method is a Unit Hydrograph transfer function.<br>This Unit Hydrograph is defined as below:"
+msgstr "广义有理方法是一种单位过程线传递函数.<br>本单位过程线定义如下："
+
+msgctxt "QObject|"
+msgid "Description"
+msgstr "描述"
+
+msgctxt "QObject|"
+msgid "Register as Digital Elevation Model"
+msgstr "注册为数字高程模型"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Project segment %1/%2"
+msgstr "工程部分 %1/%2"
+
+msgctxt "QObject|"
+msgid "Layer properties"
+msgstr "图层特征"
+
+msgctxt "QObject|"
+msgid "Where:<br>- Δt : the time step of the runoff<br>- t<sub>c</sub> : the concentration time<br>- A : the watershed area<br>- r : the runoff intensity or the effective rainfall intensity during the time step in mm per unit time"
+msgstr "在 : <br>- Δt : 径流时间步长 <br> - t <sub> c </sub> : 汇流时间<br> - A : 汇水区面积 <br>- r : 时间步长内的径流强度或有效降雨强度，单位为毫米/单位时间"
+
+msgctxt "QObject|"
+msgid "Rainfall duration (mn)"
+msgstr "降雨延时(mm)"
+
+msgctxt "QObject|"
+msgid "The Linear Reservoir Method is expressing the flow rate for the n<sup>th</sup> time step as below:"
+msgstr "线性储层法表示n的流速<sup>th</sup>  时间步长如下："
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Read DEM for segment %1/%2"
+msgstr "读取部分DEM %1/%2"
+
+msgctxt "QObject|"
+msgid "Generalized Rational Method"
+msgstr "Generalized Rational 方法"
+
+msgctxt "QObject|"
+msgid "Calculate average elevation from grid"
+msgstr "根据网格计算平均标高"
+
+msgctxt "QObject|"
+msgid " residual"
+msgstr "剩余"
+
+msgctxt "QObject|"
+msgid "Coefficient"
+msgstr "系数"
+
+msgctxt "QObject|"
+msgid "version"
+msgstr "版本"
+
+msgctxt "QObject|"
+msgid ", cumulative value"
+msgstr "，累计值"
+
+msgctxt "QObject|"
+msgid "Extract DEM from layer"
+msgstr "从图层中提取DEM"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid " m"
+msgstr "m"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid " km"
+msgstr "km"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Drop"
+msgstr "高程差"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Edit Flow Path on Map"
+msgstr "在地图上编辑流路"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Total Length"
+msgstr "总长度"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Distance (meter)"
+msgstr "距离(m)"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Searching for the longest path"
+msgstr "寻找最长的路径"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Draw Flow Path From a Upstream Point on Map"
+msgstr "从地图上的上游点绘制流道"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Draw Flow Path on Map"
+msgstr "在地图上绘制流路"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Watershed Profile Slope"
+msgstr "汇水区剖面高度"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Draw Longest Flow Path From Downstream"
+msgstr "从下游绘制最长的流道"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Watershed Name: "
+msgstr "汇水区名称 :"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Watershed Stream Path"
+msgstr "汇水区水系"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "trace longer path"
+msgstr "追踪更长的路径"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Current DEM"
+msgstr "目前数字高程地形"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Elevation"
+msgstr "高程"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Longitudinal Profile of Watershed"
+msgstr "汇水区纵剖面图"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Zoom on DEM Profile Extent"
+msgstr "放大DEM剖面范围"
+
+msgctxt "ReosLongitudinalProfileWidget|"
+msgid "Average Slope"
+msgstr "平均坡度"
+
+msgctxt "ReosImportRainfallDialog|"
+msgid "mm"
+msgstr "mm"
+
+msgctxt "ReosImportRainfallDialog|"
+msgid "name"
+msgstr "名称"
+
+msgctxt "ReosImportRainfallDialog|"
+msgid "Import Rainfall"
+msgstr "输入降雨量"
+
+msgctxt "ReosImportRainfallDialog|"
+msgid "Total height"
+msgstr "总高度"
+
+msgctxt "ReosImportRainfallDialog|"
+msgid "Select a Station to Import"
+msgstr "选择要导入的站点"
+
+msgctxt "ReosImportRainfallDialog|"
+msgid "Select a station where to import the rainfall"
+msgstr "选择要导入降雨的站点"
+
+msgctxt "ReosImportRainfallDialog|"
+msgid "Rainfall intensity"
+msgstr "降雨強度"
+
+msgctxt "ReosImportRainfallDialog|"
+msgid "Description"
+msgstr "描述"
+
+msgctxt "ReosImportRainfallDialog|"
+msgid "Field to import"
+msgstr "要导入的字段"
+
+msgctxt "ReosImportRainfallDialog|"
+msgid "Height per time step"
+msgstr "每时间步长的高度"
+
+msgctxt "ReosSeriesRainfall|"
+msgid "mm"
+msgstr "mm"
+
+msgctxt "ReosSeriesRainfall|"
+msgid "Total height"
+msgstr "总高度"
+
+msgctxt "ReosSeriesRainfall|"
+msgid "Rainfall intensity"
+msgstr "降雨強度"
+
+msgctxt "ReosSeriesRainfall|"
+msgid "Height per time step"
+msgstr "每时间步长的高度"
+
+msgctxt "ReosHubEauHydrographProvider|"
+msgid "no"
+msgstr "否"
+
+msgctxt "ReosHubEauHydrographProvider|"
+msgid "yes"
+msgstr "是"
+
+msgctxt "ReosHubEauHydrographProvider|"
+msgid "No station selected"
+msgstr "未选择测站"
+
+msgctxt "Reos3DTerrainSettingsWidget|"
+msgid "..."
+msgstr "..."
+
+msgctxt "ReosChartWidget|"
+msgid "..."
+msgstr "..."
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "..."
+msgstr "..."
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Area"
+msgstr "面积"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Drop"
+msgstr "減少"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Slope"
+msgstr "坡度"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Deselect All "
+msgstr "取消全部"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Maximum"
+msgstr "最大值"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Copy values to Clipboard "
+msgstr "将值复制到剪贴板"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Chosen formula"
+msgstr "选择公式"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Minimum"
+msgstr "最小值"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "A : watershed area (m²)"
+msgstr "A :汇水区面积 (m²)"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Concentration Time"
+msgstr "汇流时间"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Available Formulas"
+msgstr "可用公式"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Used Value"
+msgstr "使用值"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Used value"
+msgstr "使用值"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "L : longest path (m)"
+msgstr "L : 最长路径 (m)"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "<html><head/><body><p><span style=\" font-style:italic; color:#ff0000;\">Red value: at least one parameter is outside the validity domain of the formula</span></p></body></html>"
+msgstr "<html><head/><body><p><span style=\" font-style:italic; color:#ff0000;\">红色值：至少有一个参数在公式的有效域之外</span></p></body></html>"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Concentration Time Formula"
+msgstr "汇流时间公式"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Parameters"
+msgstr "参数"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Average"
+msgstr "平均值"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "i : average slope (m/m)"
+msgstr "i : 平均坡度 (m/m)"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Hm : relative average elevation (from outlet) (m)"
+msgstr "Hm : 相对平均高程（距出口） (m)"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Select All "
+msgstr "全选"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Average elevation"
+msgstr "平均高程"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Minimum value"
+msgstr "最小值"
+
+#, qt-format
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Choosen formula (%1)"
+msgstr "选择公式 (%1)"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Select Valid "
+msgstr "选择有效值"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Maximum value"
+msgstr "最大值"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "H : Drop (m)"
+msgstr "H：高程差（m）"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "All results in minutes"
+msgstr "所有结果（分钟）"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Longest path"
+msgstr "最长路径"
+
+msgctxt "ReosConcentrationTimeWidget|"
+msgid "Average value"
+msgstr "平均值"
+
+msgctxt "ReosGaugedHydrographWidget|"
+msgid "Add"
+msgstr "新增"
+
+msgctxt "ReosGaugedHydrographWidget|"
+msgid "Back"
+msgstr "返回"
+
+msgctxt "ReosGaugedHydrographWidget|"
+msgid "Current gauged hydrograph"
+msgstr "目前测站水文曲线"
+
+msgctxt "ReosGaugedHydrographWidget|"
+msgid "Rename Current Hydrograph"
+msgstr "重新命名目前水文曲线"
+
+msgctxt "ReosGaugedHydrographWidget|"
+msgid "Add Hydrograph"
+msgstr "增加水文曲线"
+
+msgctxt "ReosGaugedHydrographWidget|"
+msgid "Delete Current Hydrograph"
+msgstr "刪除目前水文曲线"
+
+msgctxt "ReosGaugedHydrographWidget|"
+msgid "Add Gauged Hydrograph"
+msgstr "增加测站曲线"
+
+msgctxt "ReosGaugedHydrographWidget|"
+msgid "Gauged Hydrographs"
+msgstr "测站曲线"
+
+#, qt-format
+msgctxt "ReosGaugedHydrographWidget|"
+msgid "Flow rate (%1)"
+msgstr "流量比(%1)"
+
+msgctxt "ReosGaugedHydrographWidget|"
+msgid "Hydrograph"
+msgstr "水文曲线"
+
+msgctxt "ReosGaugedHydrographWidget|"
+msgid "Add Copy"
+msgstr "添加副本"
+
+msgctxt "ReosGaugedHydrographWidget|"
+msgid "Hydrograph name"
+msgstr "曲线名称"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add"
+msgstr "新增"
+
+msgctxt "ReosRainfallManager|"
+msgid "Back"
+msgstr "返回"
+
+#, qt-format
+msgctxt "ReosRainfallManager|"
+msgid "Unable to open the file: %1"
+msgstr "无法打开文件 : %1"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add Double Triangle Rainfall"
+msgstr "增加双峰降雨"
+
+msgctxt "ReosRainfallManager|"
+msgid "Save Rainfal Data File"
+msgstr "保存降雨量数据文件"
+
+msgctxt "ReosRainfallManager|"
+msgid "Station name"
+msgstr "测站名称"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add Intensity Duration Curve"
+msgstr "添加强度持续时间曲线"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add New Zone to the Root"
+msgstr "将新区域添加到根目录"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add Intensity Duration Frequency Curves"
+msgstr "添加强度-持续时间-频率曲线"
+
+msgctxt "ReosRainfallManager|"
+msgid "Data from:"
+msgstr "数据由 :"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add Zone on Root"
+msgstr "在根上添加区域"
+
+#, qt-format
+msgctxt "ReosRainfallManager|"
+msgid "Unable to open the current rainfall data file: %1"
+msgstr "无法打开当前降雨数据文件: %1"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add new Intensity Duration Curve"
+msgstr "添加新的强度持续时间曲线"
+
+msgctxt "ReosRainfallManager|"
+msgid "Zone name"
+msgstr "区域名称"
+
+msgctxt "ReosRainfallManager|"
+msgid "IDF group name"
+msgstr "IDF 分组名称"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add Chicago Rainfall"
+msgstr "增加芝加哥降雨"
+
+msgctxt "ReosRainfallManager|"
+msgid "Unable to write the file"
+msgstr "无法写入文件"
+
+msgctxt "ReosRainfallManager|"
+msgid "This action will remove the actual rainfall data, do you want to save before?"
+msgstr "此操作将删除实际降雨数据，是否要先保存？"
+
+msgctxt "ReosRainfallManager|"
+msgid "Open Rainfal Data File"
+msgstr "打开降雨数据文件"
+
+msgctxt "ReosRainfallManager|"
+msgid "Reorder Intensity Duration Curves"
+msgstr "重新排序强度-持续时间曲线"
+
+#, qt-format
+msgctxt "ReosRainfallManager|"
+msgid "Remove: %1"
+msgstr "移除: %1"
+
+msgctxt "ReosRainfallManager|"
+msgid "Import Rainfall from Text File"
+msgstr "从文本文件导入降雨量"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add Alternating Block Rainfall"
+msgstr "添加交替块降雨"
+
+msgctxt "ReosRainfallManager|"
+msgid "Rainfall Manager"
+msgstr "降雨量管理"
+
+msgctxt "ReosRainfallManager|"
+msgid "Save Rainfal Data File as ..."
+msgstr "将降雨数据文件另存为..."
+
+msgctxt "ReosRainfallManager|"
+msgid "Description"
+msgstr "描述"
+
+msgctxt "ReosRainfallManager|"
+msgid "Open Rainfall Data File"
+msgstr "打开降雨数据文件"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add Copy"
+msgstr "添加副本"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add Zone"
+msgstr "添加区域"
+
+msgctxt "ReosRainfallManager|"
+msgid "Rainfall name"
+msgstr "降雨量名称"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add Station"
+msgstr "增加测站"
+
+msgctxt "ReosRainfallManager|"
+msgid "Add Gauged Rainfall"
+msgstr "添加测量降雨量"
+
+msgctxt "ReosRainfallManager|"
+msgid "Remove item"
+msgstr "删除项目"
+
+msgctxt "ReosRainfallManager|"
+msgid "Save Rainfall Data as..."
+msgstr "将降雨数据另存为 ..."
+
+msgctxt "ReosRainfallManager|"
+msgid "Add New Sub Zone"
+msgstr "添加新子区域"
+
+msgctxt "ReosRainfallManager|"
+msgid "Save Rainfall Data"
+msgstr "保存降雨数据"
+
+msgctxt "ReosRainfallManager|"
+msgid "Return period"
+msgstr "重现期"
+
+msgctxt "ReosRainfallManager|"
+msgid "Open Rainfall Data"
+msgstr "开放降雨数据"
+
+msgctxt "LekanMainWindow|"
+msgid "Map"
+msgstr "地图"
+
+msgctxt "LekanMainWindow|"
+msgid "Lekan"
+msgstr "Lekan"
+
+msgctxt "LekanMainWindow|"
+msgid "Runoff Data Changed"
+msgstr "径流数据已更改"
+
+msgctxt "LekanMainWindow|"
+msgid "GIS Layers"
+msgstr "GIS图层"
+
+msgctxt "LekanMainWindow|"
+msgid "Rainfall manager"
+msgstr "降雨管理"
+
+msgctxt "LekanMainWindow|"
+msgid "Runoff data have changed, do you want to save?"
+msgstr "径流数据已更改，是否要保存？"
+
+msgctxt "LekanMainWindow|"
+msgid "Hydrology"
+msgstr "水文"
+
+msgctxt "LekanMainWindow|"
+msgid "Rainfall Data Changed"
+msgstr "降雨数据已更改"
+
+msgctxt "LekanMainWindow|"
+msgid "Rainfall data have changed, do you want to save?"
+msgstr "降雨数据已更改，是否要保存？"
+
+msgctxt "LekanMainWindow|"
+msgid "Runoff manager"
+msgstr "径流管理"
+
+msgctxt "ReosDurationUnitComboBox|"
+msgid "day"
+msgstr "天"
+
+msgctxt "ReosDurationUnitComboBox|"
+msgid "hour"
+msgstr "小时"
+
+msgctxt "ReosDurationUnitComboBox|"
+msgid "week"
+msgstr "星期"
+
+msgctxt "ReosDurationUnitComboBox|"
+msgid "year"
+msgstr "年"
+
+msgctxt "ReosDurationUnitComboBox|"
+msgid "month"
+msgstr "月"
+
+msgctxt "ReosDurationUnitComboBox|"
+msgid "millisecond"
+msgstr "毫秒"
+
+msgctxt "ReosDurationUnitComboBox|"
+msgid "minute"
+msgstr "分"
+
+msgctxt "ReosDurationUnitComboBox|"
+msgid "second"
+msgstr "秒"
+
+msgctxt "ReosTimeSerieConstantIntervalWidget|"
+msgid "day"
+msgstr "天"
+
+msgctxt "ReosTimeSerieConstantIntervalWidget|"
+msgid "hour"
+msgstr "小時"
+
+msgctxt "ReosTimeSerieConstantIntervalWidget|"
+msgid "week"
+msgstr "星期"
+
+msgctxt "ReosTimeSerieConstantIntervalWidget|"
+msgid "year"
+msgstr "年"
+
+msgctxt "ReosTimeSerieConstantIntervalWidget|"
+msgid "month"
+msgstr "月"
+
+msgctxt "ReosTimeSerieConstantIntervalWidget|"
+msgid "millisecond"
+msgstr "毫秒"
+
+msgctxt "ReosTimeSerieConstantIntervalWidget|"
+msgid "Intensity time unit"
+msgstr "强度时间单位"
+
+msgctxt "ReosTimeSerieConstantIntervalWidget|"
+msgid "minute"
+msgstr "分"
+
+msgctxt "ReosTimeSerieConstantIntervalWidget|"
+msgid "second"
+msgstr "秒"
+
+msgctxt "ReosTimeSerieConstantIntervalWidget|"
+msgid "Value type"
+msgstr "值类型"
+
+msgctxt "ReosIntensityDurationInterval|"
+msgid "end"
+msgstr "结束"
+
+msgctxt "ReosIntensityDurationInterval|"
+msgid "start"
+msgstr "起始"
+
+msgctxt "ReosTimeSeriesVariableTimeStepWidget|"
+msgid "Back"
+msgstr "返回"
+
+msgctxt "ReosTimeSeriesVariableTimeStepWidget|"
+msgid "Gauged Hydrographs"
+msgstr "测量水文曲线图"
+
+msgctxt "ReosEditMeshElementWidget|"
+msgid "Area"
+msgstr "面结"
+
+msgctxt "ReosExportWatershedToVectorDialog|"
+msgid "Area"
+msgstr "面结"
+
+msgctxt "ReosExportWatershedToVectorDialog|"
+msgid "Drop"
+msgstr "降低"
+
+msgctxt "ReosExportWatershedToVectorDialog|"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "ReosExportWatershedToVectorDialog|"
+msgid "Slope"
+msgstr "坡度"
+
+msgctxt "ReosExportWatershedToVectorDialog|"
+msgid "Export longest path"
+msgstr "导出最长路径"
+
+msgctxt "ReosExportWatershedToVectorDialog|"
+msgid "File name"
+msgstr "文件名称"
+
+msgctxt "ReosExportWatershedToVectorDialog|"
+msgid "Length"
+msgstr "长度"
+
+msgctxt "ReosExportWatershedToVectorDialog|"
+msgid "Export Watershed to Vector File"
+msgstr "将流域导出为矢量文件"
+
+msgctxt "ReosExportWatershedToVectorDialog|"
+msgid "Export watershed delineating"
+msgstr "出口流域划定"
+
+msgctxt "ReosExportWatershedToVectorDialog|"
+msgid "Export watershed longest path"
+msgstr "出口流域最长路径"
+
+msgctxt "ReosTransferFunction|"
+msgid "Area"
+msgstr "面积"
+
+msgctxt "ReosTransferFunction|"
+msgid "Concentration time"
+msgstr "汇流时间"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Area"
+msgstr "面积"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Removing watershed"
+msgstr "移除汇水区"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Select watershed on map"
+msgstr "在地图上选择汇水区"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Remove watershed from network"
+msgstr "在网络中移除汇水区"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Meteorologic models"
+msgstr "气象模型"
+
+#, qt-format
+msgctxt "ReosWatershedWidget|"
+msgid "Do you want to remove the current watershed '%1'?"
+msgstr "您想要移除目前汇水区 '%1'?"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Add Watershed to Network"
+msgstr "將汇水区加入网络"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Watershed name"
+msgstr "汇水区名称"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Gauged hydrograph"
+msgstr "测站水文曲线图"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Concentration time"
+msgstr "汇流时间"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Runoff hydrograph"
+msgstr "径流水文曲线图"
+
+msgctxt "ReosWatershedWidget|"
+msgid "residual watershed"
+msgstr "剩余汇水区"
+
+msgctxt "ReosWatershedWidget|"
+msgid "downstream watershed"
+msgstr "下游汇水区"
+
+msgctxt "ReosWatershedWidget|"
+msgid "No Watershed Selected"
+msgstr "沒有汇水区被选择"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Delineate watershed"
+msgstr "划定汇水区"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Watershed Values"
+msgstr "汇水区数值"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Add to Hydraulic Network"
+msgstr "添加到水力网络"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Watershed"
+msgstr "汇水区"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Average elevation"
+msgstr "平均高程"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Longitudinal profile"
+msgstr "纵剖面"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Export watershed geometry to vector layer"
+msgstr "輸出汇水区向量图层"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Remove watershed"
+msgstr "移除汇水区"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Add Watershed Hydraulic Node"
+msgstr "加入汇水区水理节点"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Zoom to watershed"
+msgstr "缩放到汇水区范围"
+
+msgctxt "ReosWatershedWidget|"
+msgid "No Hydraulic Network"
+msgstr "沒有水力网路"
+
+msgctxt "ReosWatershedWidget|"
+msgid "Average Slope"
+msgstr "平均坡度"
+
+msgctxt "ReosWatershed|"
+msgid "Drop"
+msgstr "降低"
+
+#, qt-format
+msgctxt "ReosWatershed|"
+msgid "Average elevation calculation for watershed \"%1\" with DEM \"%2\""
+msgstr "汇水区平均高程计算 \"%1\" 由DEM \"%2\""
+
+msgctxt "ReosWatershed|"
+msgid "Longest stream path"
+msgstr "最长水系路径"
+
+msgctxt "ReosWatershed|"
+msgid "Watershed area"
+msgstr "汇水区面积"
+
+msgctxt "ReosWatershed|"
+msgid "Watershed name"
+msgstr "汇水区名称"
+
+msgctxt "ReosWatershed|"
+msgid "Concentration time"
+msgstr "集流时间"
+
+#, qt-format
+msgctxt "ReosWatershed|"
+msgid "Unable to calculate average elevation for watershed \"%1\" : no DEM available"
+msgstr "无法进行汇水区平均高程计算 \"%1\" :因为沒有DEM数据"
+
+msgctxt "ReosWatershed|"
+msgid "Average elevation"
+msgstr "平均高程"
+
+msgctxt "ReosWatershed|"
+msgid "Average slope"
+msgstr "平均斜率"
+
+msgctxt "ReosDelftFewsWidget|"
+msgid "File"
+msgstr "文件"
+
+msgctxt "ReosDelftFewsWidget|"
+msgid "Open XML Delft-FEWS file"
+msgstr "打开 Delft-FEWS XML文件"
+
+msgctxt "ReosDelftFewsWidget|"
+msgid "Select Station"
+msgstr "选择测站"
+
+msgctxt "ReosDelftFewsWidget|"
+msgid "Rainfall"
+msgstr "降雨"
+
+msgctxt "ReosDelftFewsWidget|"
+msgid "Hydrograph"
+msgstr "曲线"
+
+msgctxt "ReosHydraulicNetworkElement|"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "ReosIntensityDurationSelectedCurveWidget|"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "ReosIntensityDurationSelectedCurveWidget|"
+msgid "Intensity Duration Curve"
+msgstr "強度延时曲线"
+
+msgctxt "ReosIntensityDurationSelectedCurveWidget|"
+msgid "Choose a Intensity Duration Curve:"
+msgstr "选择强度延时曲线:"
+
+msgctxt "ReosIntensityDurationSelectedCurveWidget|"
+msgid "Station"
+msgstr "测站"
+
+msgctxt "ReosIntensityDurationSelectedCurveWidget|"
+msgid "Return period"
+msgstr "重现期"
+
+msgctxt "ReosRainfallIntensityDurationCurveItem|"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "ReosRainfallModel|"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "ReosRainfallModel|"
+msgid "Description"
+msgstr "描述"
+
+msgctxt "ReosRunoffManager|"
+msgid "Name"
+msgstr "名称"
+
+#, qt-format
+msgctxt "ReosRunoffManager|"
+msgid "Unable to open the current runoff data file: %1"
+msgstr "无法打开目前径流数据文件: %1"
+
+#, qt-format
+msgctxt "ReosRunoffManager|"
+msgid "Unable to open the file: %1"
+msgstr "无法打开文件： %1"
+
+#, qt-format
+msgctxt "ReosRunoffManager|"
+msgid "Remove runoff model %1?"
+msgstr "移除径流模式 %1?"
+
+msgctxt "ReosRunoffManager|"
+msgid "Data from:"
+msgstr "数据来源 ："
+
+msgctxt "ReosRunoffManager|"
+msgid "Open Runoff Data File"
+msgstr "打开径流数据文件"
+
+msgctxt "ReosRunoffManager|"
+msgid "Unable to write the file"
+msgstr "无法寫入文件"
+
+msgctxt "ReosRunoffManager|"
+msgid "Save Runoff Models as ..."
+msgstr "保存径流模式为 ..."
+
+msgctxt "ReosRunoffManager|"
+msgid "Remove runoff model"
+msgstr "移除径流模式"
+
+msgctxt "ReosRunoffManager|"
+msgid "Choose model's name:"
+msgstr "选择模型名称:"
+
+msgctxt "ReosRunoffManager|"
+msgid "Save Runoff Data as..."
+msgstr "保存径流模式为 ..."
+
+msgctxt "ReosRunoffManager|"
+msgid "Save Runoff Models"
+msgstr "保存径流模式"
+
+msgctxt "ReosRunoffManager|"
+msgid "Remove this model"
+msgstr "刪除这个模式"
+
+msgctxt "ReosRunoffManager|"
+msgid "Add a new runoff model"
+msgstr "新增一个径流模式"
+
+msgctxt "ReosRunoffManager|"
+msgid "Save Runoff Data"
+msgstr "保存径流数据"
+
+msgctxt "ReosRunoffManager|"
+msgid "Open File"
+msgstr "打开文件"
+
+msgctxt "ReosRunoffManager|"
+msgid "Open Runoff Data"
+msgstr "打开径流数据"
+
+msgctxt "ReosRunoffManager|"
+msgid "This action will remove the actual runoff model data, do you want to save before?"
+msgstr "这动作会移除目前径流模式数据，您要先存档吗?"
+
+msgctxt "ReosRunoffManager|"
+msgid "Add a new model"
+msgstr "新增模式"
+
+msgctxt "ReosRunoffManager|"
+msgid "Runoff Manager"
+msgstr "径流管理"
+
+msgctxt "ReosAboutWidget|"
+msgid "Reos"
+msgstr "Reos"
+
+msgctxt "ReosAboutWidget|"
+msgid "Under GPL license v2 or later:"
+msgstr "依据GPL授权v2或更新的版本："
+
+msgctxt "ReosAboutWidget|"
+msgid "About"
+msgstr "关于"
+
+msgctxt "ReosAboutWidget|"
+msgid "License"
+msgstr "授权"
+
+msgctxt "ReosAboutWidget|"
+msgid "Translators"
+msgstr "翻译者"
+
+msgctxt "ReosAboutWidget|"
+msgid "Contributors"
+msgstr "贡献者"
+
+msgctxt "ReosAboutWidget|"
+msgid "Developers"
+msgstr "开发者"
+
+msgctxt "ReosAboutWidget|"
+msgid "version"
+msgstr "版本"
+
+msgctxt "ReosAboutWidget|"
+msgid "Following libraries are used:"
+msgstr "使用以下库:"
+
+msgctxt "ReosAboutWidget|"
+msgid "Dependencies"
+msgstr "相关性"
+
+msgctxt "ReosHydraulicHydrographJunctionPropertiesWidget|"
+msgid "Time"
+msgstr "时间"
+
+msgctxt "ReosHydraulicHydrographJunctionPropertiesWidget|"
+msgid "Plots"
+msgstr "绘图"
+
+msgctxt "ReosHydraulicHydrographJunctionPropertiesWidget|"
+msgid "Tables"
+msgstr "表格"
+
+msgctxt "ReosHydraulicHydrographJunctionPropertiesWidget|"
+msgid "Gauged Hydrographs"
+msgstr "测站曲线"
+
+msgctxt "ReosHydraulicStructure2DProperties|"
+msgid "Time"
+msgstr "时间"
+
+msgctxt "ReosHydraulicStructure2DProperties|"
+msgid "Plots"
+msgstr "绘图"
+
+msgctxt "ReosHydraulicStructure2DProperties|"
+msgid "Tables"
+msgstr "表格"
+
+msgctxt "ReosHydrographRoutingPropertiesWidget|"
+msgid "Time"
+msgstr "时间"
+
+msgctxt "ReosHydrographRoutingPropertiesWidget|"
+msgid "Plots"
+msgstr "绘图"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Time"
+msgstr "时间"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Plots"
+msgstr "绘图"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Hydrograph result"
+msgstr "曲线图成果"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Copy selected values"
+msgstr "复制选择数值"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Transfert Function"
+msgstr "转换方式"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Runoff results"
+msgstr "径流成果"
+
+#, qt-format
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Runoff %1"
+msgstr "径流 %1"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Runoff"
+msgstr "径流"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Tables"
+msgstr "表格"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Current Meteorologic Model"
+msgstr "目前气象数据"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Rainfall Information:"
+msgstr "降雨信息:"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Gauged Hydrographs"
+msgstr "测站曲线"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Rainfall"
+msgstr "降雨量"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Copy selected values with headers"
+msgstr "复制选择数值包含档头"
+
+#, qt-format
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Flow rate (%1)"
+msgstr "流量比(%1)"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Remove this model"
+msgstr "移除这一个模式"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Runoff and Hydrograph of Watershed"
+msgstr "汇水区降雨径流曲线"
+
+#, qt-format
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Rainfall %1"
+msgstr "雨量 %1"
+
+msgctxt "ReosRunoffHydrographWidget|"
+msgid "Runoff Models"
+msgstr "径流模式"
+
+msgctxt "ReosTimeSerieVariableTimeStepModel|"
+msgid "Time"
+msgstr "时间"
+
+msgctxt "ReosTimeSeriesTableModel|"
+msgid "Time"
+msgstr "时间"
+
+msgctxt "ReosTimeSeriesVariableTimeStepReadOnlyModel|"
+msgid "Time"
+msgstr "时间"
+
+msgctxt "ReosParameterBoolean|"
+msgid "True"
+msgstr "真实"
+
+msgctxt "ReosParameterBoolean|"
+msgid "False"
+msgstr "错误"
+
+#, qt-format
+msgctxt "ReosWatershedDelineating|"
+msgid " and added to %1"
+msgstr " 並添加到 %1"
+
+msgctxt "ReosWatershedDelineating|"
+msgid "Start delineating"
+msgstr "开始绘制"
+
+msgctxt "ReosWatershedDelineating|"
+msgid "Predifined extent intersect watershed delineating, please redefined extent"
+msgstr "预定义的范围与汇水区边界重叠，请重新定义范围"
+
+msgctxt "ReosWatershedDelineating|"
+msgid "Waiting for predefined extent"
+msgstr "等待预设范围"
+
+#, qt-format
+msgctxt "ReosWatershedDelineating|"
+msgid "%1 validated%2"
+msgstr "%1 验证%2"
+
+msgctxt "ReosWatershedDelineating|"
+msgid "Waiting for proceeding to delineating"
+msgstr "等待绘图进行汇水区界定"
+
+msgctxt "ReosWatershedDelineating|"
+msgid "Watershed ready for validation"
+msgstr "汇水区完成验证准确"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Add Mesh Layer"
+msgstr "加入Mesh栅格图层"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Add Vector Layer"
+msgstr "加入向量图层"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Load Raster Layer"
+msgstr "加载栅格图层"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Add Raster Layer"
+msgstr "增加栅格图层"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Load Vector Layer"
+msgstr "加载向量图层"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Load QGIS Project"
+msgstr "加载QGIS專案"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Loading Raster Layer"
+msgstr "加载栅格图层中"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Loading Vector Layer"
+msgstr "向量图层加载中"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Invalid vector layer, file not loaded."
+msgstr "无效向量图层，文件未加载。"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Digital Elevation Model"
+msgstr "数字高程模型"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "This raster layer could be a DEM, do you want to register as a DEM?"
+msgstr "这一个图层可能是DEM数据，您想要將其注冊为DEM图层?"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Invalid raster layer, file not loaded."
+msgstr "无效栅格图层，文件未加载。"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Project coordinate reference system"
+msgstr "投影坐标参考系统"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "This layer is not recognized as a possible DEM"
+msgstr "这一个图层无法辨识似乎是DEM数据"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Load Mesh Layer"
+msgstr "加载Mesh栅格图层"
+
+msgctxt "ReosGisLayersWidget|"
+msgid "Register Layer as DEM"
+msgstr "注冊为DEM图层"
+
+msgctxt "ReosTransferFunctionSCSUnitHydrograph|"
+msgid "Use concentration time for the lag time"
+msgstr "使用洪峰延迟时间"
+
+msgctxt "ReosTransferFunctionSCSUnitHydrograph|"
+msgid "Peak Factor"
+msgstr "峰值系数"
+
+msgctxt "ReosTransferFunctionSCSUnitHydrograph|"
+msgid "Factor"
+msgstr "系数"
+
+msgctxt "ReosTransferFunctionSCSUnitHydrograph|"
+msgid "Lag time"
+msgstr "延迟时间"
+
+#, qt-format
+msgctxt "ReosRunoffModelRegistery|"
+msgid "Constant coefficient %1"
+msgstr "常数系数%1"
+
+msgctxt "ReosRunoffModelRegistery|"
+msgid "Curve Number"
+msgstr "曲线编号"
+
+#, qt-format
+msgctxt "ReosRunoffModelRegistery|"
+msgid "Runoff data loaded from file: %1"
+msgstr "加载径流数据由文件: %1"
+
+#, qt-format
+msgctxt "ReosRunoffModelRegistery|"
+msgid "Runoff models save to file: %1"
+msgstr "径流模式保存到文件: %1"
+
+msgctxt "ReosRunoffModelRegistery|"
+msgid "The Green Ampt approach for runoff"
+msgstr "径流使用Green Ampt 方法"
+
+msgctxt "ReosRunoffModelRegistery|"
+msgid "Curve Number runoff"
+msgstr "曲线编号径流"
+
+#, qt-format
+msgctxt "ReosRunoffModelRegistery|"
+msgid "Undefined type %1"
+msgstr "未定义的类型 %1"
+
+#, qt-format
+msgctxt "ReosRunoffModelRegistery|"
+msgid "Curve Number %1"
+msgstr "曲线编号%1"
+
+#, qt-format
+msgctxt "ReosRunoffModelRegistery|"
+msgid "Green Ampt %1"
+msgstr "Green-Ampt入渗公式%1"
+
+msgctxt "ReosRunoffModelRegistery|"
+msgid "Green Ampt"
+msgstr "Green-Ampt入渗公式"
+
+msgctxt "ReosRunoffModelRegistery|"
+msgid ""
+"A constant coefficient between 0 and 1\n"
+"is applied on the rainfall"
+msgstr ""
+"介于0到1之间的常数\n"
+"适用于降雨"
+
+msgctxt "ReosRunoffModelRegistery|"
+msgid "Constant coefficient"
+msgstr "常数系数"
+
+#, qt-format
+msgctxt "ReosRunoffModelRegistery|"
+msgid "Unable to load runoff data from file: %1"
+msgstr "无法加载径流数据由文件: %1"
+
+msgctxt "ReosWatershedRunoffModelsModel|"
+msgid "Invalid"
+msgstr "无效的"
+
+msgctxt "ReosWatershedRunoffModelsModel|"
+msgid "Right click to add"
+msgstr "右键点选增加"
+
+msgctxt "ReosWatershedRunoffModelsModel|"
+msgid "Portion in watershed"
+msgstr "部分的汇水区"
+
+msgctxt "ReosWatershedRunoffModelsModel|"
+msgid "Runoff model"
+msgstr "径流模式"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Drag a rainfall"
+msgstr "降雨"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Duplicate Meteo Model"
+msgstr "重复的气象数据"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Disassociate rainfall"
+msgstr "取消降雨"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Meteorologic Model name"
+msgstr "气象数据名称"
+
+#, qt-format
+msgctxt "ReosMeteorologicModelWidget|"
+msgid ""
+"Duplicate meteorologic model '%1',\n"
+"choose a name:"
+msgstr ""
+"重复的气象模型 '%1',\n"
+"选择一个名称："
+
+#, qt-format
+msgctxt "ReosMeteorologicModelWidget|"
+msgid ""
+"Rename meteorologic model '%1',\n"
+"choose a new name:"
+msgstr ""
+"修改气象数据名称 '%1'\n"
+"选择一个新名称:"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Remove Meteo Model"
+msgstr "移除气象数据"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Rename Meteo Model"
+msgstr "修改气象数据名称"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Rename Meteorologic Model"
+msgstr "重命名气象数据"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Remove Meteorologic Model"
+msgstr "移除气象数据"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Duplicate Meteorologic Model"
+msgstr "复制气象数据"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Add Meteo Model"
+msgstr "加入气象数据"
+
+#, qt-format
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Do you want to remove the model '%1'?"
+msgstr "您是否要刪除模型'%1'?"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Current Meteorological Model"
+msgstr "目前气象数据"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Add Meteorologic Model"
+msgstr "增加气象数据"
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Add a new meteorologic model, choose a name:"
+msgstr "增加一个新的气象数据，选择一个名称："
+
+msgctxt "ReosMeteorologicModelWidget|"
+msgid "Meteorological Models"
+msgstr "气象数据"
+
+msgctxt "ReosTextFileData|"
+msgid "space"
+msgstr "空格"
+
+#, qt-format
+msgctxt "ReosTextFileData|"
+msgid "Field %1"
+msgstr "字段 %1"
+
+msgctxt "ReosVersionMessageBox|"
+msgid "Visit : "
+msgstr "浏览 ："
+
+msgctxt "ReosVersionMessageBox|"
+msgid "New version available"
+msgstr "已有新版本"
+
+msgctxt "ReosVersionMessageBox|"
+msgid "A new version is available.\n"
+msgstr "有新版本可用。\n"
+
+msgctxt "ReosVersionMessageBox|"
+msgid "No new version available."
+msgstr "沒有可用新版本."
+
+msgctxt "ReosEditableProfileModel|"
+msgid "Distance"
+msgstr "距离"
+
+msgctxt "ReosEditableProfileModel|"
+msgid "Altitude"
+msgstr "高度"
+
+msgctxt "ReosHydraulicStructureProfilesWidget|"
+msgid "Distance"
+msgstr "距离"
+
+msgctxt "ReosHydraulicStructureProfilesWidget|"
+msgid "Elevation"
+msgstr "高程"
+
+msgctxt "ReosDoubleTriangleRainfall|"
+msgid "Intense Duration"
+msgstr "強度延时时间"
+
+msgctxt "ReosDoubleTriangleRainfall|"
+msgid "Total Duration"
+msgstr "总延时"
+
+msgctxt "ReosDoubleTriangleRainfall|"
+msgid "Eccentricity"
+msgstr "偏心率"
+
+msgctxt "ReosWatershedDelineatingProcess|"
+msgid "Trace stream line"
+msgstr "追踪流向线段"
+
+msgctxt "ReosWatershedDelineatingProcess|"
+msgid "Filling digital elevation model"
+msgstr "数字高程模型填平"
+
+msgctxt "ReosWatershedDelineatingProcess|"
+msgid "Calculating direction"
+msgstr "计算流向"
+
+msgctxt "ReosWatershedDelineatingProcess|"
+msgid "Delineate watershed"
+msgstr "偵测汇水区"
+
+msgctxt "ReosWatershedDelineatingProcess|"
+msgid "Extract digital elevation model"
+msgstr "擷取数字高程"
+
+msgctxt "ReosWatershedDelineatingProcess|"
+msgid "Polygonize watershed"
+msgstr "向量化汇水区"
+
+#, qt-format
+msgctxt "ReosGisEngine|"
+msgid "Vector layer loaded: %1"
+msgstr "向量图层加载: %1"
+
+msgctxt "ReosGisEngine|"
+msgid ""
+"This layer doesn't have a valid or known coordinates system, and calculation on DEM will be done considering its coordinate system is the same as the project.\n"
+"The project's coordinates system is a geographic reference system (latitude/longitude) and the extent of this layer suggests that it is actually a projected coordinates system.\n"
+"If so, the result of area or distance calculation will be incorrect.\n"
+"To fix this, set an appropriate map coordinate system in the layer properties or/and for the project coordinate project."
+msgstr ""
+"这图层无法验证与确认其坐标系统，因此计算將会使用与目前專案相同的坐标系统进行计算。\n"
+"專案坐标系统的地理系统( 纬度 / 经度 )，该图层顯示對應的坐标投影系统不相同，可能導致面积与距离计算成果不正確。\n"
+"为了解決此問題，建议在图层属性或專案設定內容中选择合适的地图坐标系统。"
+
+#, qt-format
+msgctxt "ReosGisEngine|"
+msgid "Mesh layer not loaded: %1"
+msgstr "Mesh栅格图层未加载: %1"
+
+#, qt-format
+msgctxt "ReosGisEngine|"
+msgid "Raster layer loaded: %1"
+msgstr "栅格图层加载: %1"
+
+msgctxt "ReosGisEngine|"
+msgid "Could not find MDAL"
+msgstr "无法找到MDAL栅格"
+
+#, qt-format
+msgctxt "ReosGisEngine|"
+msgid "Raster layer not loaded: %1"
+msgstr "栅格图层未加载: %1"
+
+#, qt-format
+msgctxt "ReosGisEngine|"
+msgid "Vector layer not loaded: %1"
+msgstr "向量图层未加载: %1"
+
+#, qt-format
+msgctxt "ReosGisEngine|"
+msgid "Mesh layer loaded: %1"
+msgstr "Mesh栅格图层加载: %1"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Draw downstream line"
+msgstr "绘制下游线段"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Move outlet point"
+msgstr "移动控制点"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "This layer is not recognized as a possible DEM, do you want to load it?"
+msgstr "这一个图层无法辨識似乎是DEM数据，您想要加载吗?"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Load Raster DEM Layer"
+msgstr "加载栅格数字高程DEM图层"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Loading Raster DEM Layer"
+msgstr "正加载栅格数字高程DEM图层中"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Draw predefined extent"
+msgstr "绘制預設范围"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Loading Raster Layer"
+msgstr "加载栅格图层中"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Automatic from DEM"
+msgstr "由数字高程自动处理"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Remove a burning line"
+msgstr "移除挖深线"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Add a burning line"
+msgstr "加入挖深线"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Delineating watershed"
+msgstr "偵测汇水区范围"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Validate Watershed"
+msgstr "验证汇水区"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Watershed Delineating"
+msgstr "汇水区边界绘制"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Invalid raster layer, file not loaded."
+msgstr "无法使用的栅格图层，文件未被加载。"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Delineate Watershed"
+msgstr "偵测汇水区"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid ""
+"This watershed intersects existing watershed(s)\n"
+"Adjust new watershed?"
+msgstr ""
+"这一个汇水区和现存汇水区(多个汇水区)重叠\n"
+"修正新汇水区?"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Edit watershed manually"
+msgstr "手动编辑汇水区"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Draw watershed manually"
+msgstr "手动绘制汇水区"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Current DEM"
+msgstr "目前数字高程模型"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Calculate average elevation"
+msgstr "计算平均高程"
+
+msgctxt "ReosDelineatingWatershedWidget|"
+msgid "Manual Delineating"
+msgstr "人工绘制"
+
+msgctxt "ReosFormJunctionNodeWidget|"
+msgid "Inject gauged hydrograph"
+msgstr "引入测站曲线"
+
+msgctxt "ReosMap|"
+msgid "Zoom In"
+msgstr "放大"
+
+msgctxt "ReosMap|"
+msgid "Zoom Out"
+msgstr "缩小"
+
+msgctxt "ReosMap|"
+msgid "Previous Zoom"
+msgstr "上一个缩放"
+
+msgctxt "ReosMap|"
+msgid "Deactivate Tool"
+msgstr "选择工具"
+
+msgctxt "ReosMap|"
+msgid "Next Zoom"
+msgstr "下一个缩放"
+
+msgctxt "ReosDelftFewsSettingsWidget|"
+msgid "Delft-FEWS XML Data"
+msgstr "Delft-FEWS XML 数据"
+
+msgctxt "ReosRainfallIntensityDurationWidget|"
+msgid "Remove interval"
+msgstr "刪除时间间隔"
+
+msgctxt "ReosRainfallIntensityDurationWidget|"
+msgid "t: rainfall duration (entry time unit)"
+msgstr "t: 降雨延时(整体时间单位)"
+
+msgctxt "ReosRainfallIntensityDurationWidget|"
+msgid "I: rainfall intensity (mm per result time unit)"
+msgstr "I：降雨強度（mm单位时间結果)"
+
+msgctxt "ReosRainfallIntensityDurationWidget|"
+msgid "Interval duration end:"
+msgstr "延时結束时间："
+
+msgctxt "ReosRainfallIntensityDurationWidget|"
+msgid "Interval duration start:"
+msgstr "延时起始时间："
+
+msgctxt "ReosRainfallIntensityDurationWidget|"
+msgid "Add a new interval"
+msgstr "加入新间距"
+
+msgctxt "ReosRainfallIntensityDurationWidget|"
+msgid "Entry time unit"
+msgstr "初始时间单位"
+
+msgctxt "ReosRainfallIntensityDurationWidget|"
+msgid "Duration Interval Edition"
+msgstr "延时持续时间"
+
+msgctxt "ReosRainfallIntensityDurationWidget|"
+msgid "Do you want to remove the interval?"
+msgstr "您要刪除时间间隔吗？"
+
+msgctxt "ReosRainfallIntensityDurationWidget|"
+msgid "Result time unit"
+msgstr "成果时间单位"
+
+#, qt-format
+msgctxt "ReosRainfallSerieRainfallItem|"
+msgid "Time Step: %1"
+msgstr "时间间距 : %1"
+
+#, qt-format
+msgctxt "ReosRainfallSerieRainfallItem|"
+msgid "Name: %1"
+msgstr "名称: %1"
+
+#, qt-format
+msgctxt "ReosRainfallSerieRainfallItem|"
+msgid "Duration: %1"
+msgstr "延时: %1"
+
+#, qt-format
+msgctxt "ReosRainfallSerieRainfallItem|"
+msgid "Cumulative height: %1 mm"
+msgstr "累积高度: %1mm"
+
+msgctxt "ReosEditableProfile|"
+msgid "Zoom on Defined Profile Extent"
+msgstr "浏览預設剖面线范围"
+
+msgctxt "ReosEditableProfile|"
+msgid "Remove Point"
+msgstr "移除点位"
+
+msgctxt "ReosEditableProfile|"
+msgid "Edit Profile"
+msgstr "编辑剖面线"
+
+msgctxt "ReosEditableProfile|"
+msgid "Insert point"
+msgstr "插入点位"
+
+msgctxt "ReosEditableProfile|"
+msgid "Create New Profile"
+msgstr "建立新剖面"
+
+msgctxt "ReosRunoffGreenAmptModel|"
+msgid "Soil porosity (vol/vol)"
+msgstr "土壤孔隙率（vol/vol）"
+
+msgctxt "ReosRunoffGreenAmptModel|"
+msgid "Saturated permeability (mm/h)"
+msgstr "饱和系数(mm/h)"
+
+msgctxt "ReosRunoffGreenAmptModel|"
+msgid "Initial retention (mm)"
+msgstr "初始降雨量(mm)"
+
+msgctxt "ReosRunoffGreenAmptModel|"
+msgid "Initial water content (vol/vol)"
+msgstr "初始含水量(vol/vol)"
+
+msgctxt "ReosRunoffGreenAmptModel|"
+msgid "Wetting front suction (mm)"
+msgstr "土壤湿润前水吸力(mm)"
+
+msgctxt "ReosLanguageSelectionWidget|"
+msgid "Language choice"
+msgstr "语言选择"
+
+msgctxt "ReosLanguageSelectionWidget|"
+msgid "Modification will be apply after restart"
+msgstr "调整內容会在重新启动后呈现"
+
+msgctxt "ReosLanguageSelectionWidget|"
+msgid "Language"
+msgstr "语言"
+
+msgctxt "ReosLanguageSelectionWidget|"
+msgid "System language"
+msgstr "系统语言"
+
+msgctxt "ReosTimeSerie|"
+msgid "Reference time"
+msgstr "参考时间"
+
+msgctxt "ReosStartingWidget|"
+msgid "Open Project"
+msgstr "打开工程"
+
+msgctxt "ReosStartingWidget|"
+msgid "What do you want ?"
+msgstr "您想要做什么 ？"
+
+msgctxt "ReosStartingWidget|"
+msgid "New Project"
+msgstr "新工程"
+
+msgctxt "ReosTimeSerieTableView|"
+msgid "Copy selected values"
+msgstr "复制选择数值"
+
+msgctxt "ReosTimeSerieTableView|"
+msgid "Copy selected values with headers"
+msgstr "复制选择数值包含档头"
+
+msgctxt "ReosTimeSeriesVariableTimeStepReadOnlyTableView|"
+msgid "Copy selected values"
+msgstr "复制选择数值"
+
+msgctxt "ReosTimeSeriesVariableTimeStepReadOnlyTableView|"
+msgid "Copy selected values with headers"
+msgstr "复制选择数值包含档头"
+
+msgctxt "ReosPlotWidget|"
+msgid "X linear scale"
+msgstr "X轴刻度"
+
+msgctxt "ReosPlotWidget|"
+msgid "X logarithmic scale"
+msgstr "X轴對数刻度"
+
+msgctxt "ReosPlotWidget|"
+msgid "Save as Image"
+msgstr "另存为图片"
+
+msgctxt "ReosPlotWidget|"
+msgid "Copy as Image"
+msgstr "复制为图片"
+
+msgctxt "ReosHubEauSettingsWidget|"
+msgid "Loading"
+msgstr "加载中"
+
+msgctxt "ReosHubEauSettingsWidget|"
+msgid "Reload"
+msgstr "重新加载"
+
+msgctxt "ReosTelemac2DInititalConditionFromOtherSimulationWidget|"
+msgid "Time step"
+msgstr "时间间距"
+
+msgctxt "ReosTelemac2DSimulation|"
+msgid "Time step"
+msgstr "时间间距"
+
+msgctxt "ReosTimeSerieConstantInterval|"
+msgid "Time step"
+msgstr "时间间距"
+
+#, qt-format
+msgctxt "ReosTimeSerieConstantInterval|"
+msgid "Intensity (%1/%2)"
+msgstr "強度 (%1/%2)"
+
+msgctxt "ReosMeshScalarRenderingWidget|"
+msgid "Maximum"
+msgstr "最大值"
+
+msgctxt "ReosMeshScalarRenderingWidget|"
+msgid "Minimum"
+msgstr "最小值"
+
+msgctxt "ReosLightWidget|"
+msgid "Altitude"
+msgstr "高度"
+
+msgctxt "ReosRunoffCurveNumberModel|"
+msgid "Curve number"
+msgstr "取线编号"
+
+msgctxt "ReosRunoffCurveNumberModel|"
+msgid "Initial retention (mm)"
+msgstr "初始保留(mm)"
+
+msgctxt "ReosRunoffCurveNumberModel|"
+msgid "Initial retention : 0.2 x S"
+msgstr "初始保留 : 0.2 x S"
+
+msgctxt "ReosTransferFunctionLinearReservoir|"
+msgid "Factor"
+msgstr "系数"
+
+msgctxt "ReosTransferFunctionLinearReservoir|"
+msgid "Use concentration time"
+msgstr "使用集流时间"
+
+msgctxt "ReosTransferFunctionLinearReservoir|"
+msgid "Lag time"
+msgstr "延时"
+
+msgctxt "ReosFormWatershedNodeWidget|"
+msgid "Hydrograph origin"
+msgstr "原始曲线"
+
+msgctxt "ReosDoubleTriangleRainfallWidget|"
+msgid "Total Intensity Duration Curve"
+msgstr "总強度延时曲线"
+
+msgctxt "ReosDoubleTriangleRainfallWidget|"
+msgid "Intense Intensity Duration Curve"
+msgstr "強度延时曲线"
+
+msgctxt "ReosHubEauWidget|"
+msgid "Select Station"
+msgstr "选择测站"
+
+msgctxt "ReosHubEauWidget|"
+msgid "real time"
+msgstr "即时"
+
+#, qt-format
+msgctxt "ReosHubEauWidget|"
+msgid "Flow rate (%1)"
+msgstr "流量比例(%1)"
+
+msgctxt "ReosHubEauWidget|"
+msgid "Hydrograph"
+msgstr "曲线"
+
+#, qt-format
+msgctxt "ReosHubEauWidget|"
+msgid "%n station displayed"
+msgid_plural "%n station displayed"
+msgstr[0] "%n 测站展示"
+
+msgctxt "ReosHubEauWidget|"
+msgid "Loading stations on extent"
+msgstr "加载现有测站"
+
+msgctxt "ReosConcentrationTimeFormulasModel|"
+msgid "Formula Name"
+msgstr "公式名称"
+
+msgctxt "ReosConcentrationTimeFormulasModel|"
+msgid "Calculated Value"
+msgstr "计算值"
+
+msgctxt "ReosRunoffModelsGroup|"
+msgid "Portion"
+msgstr "部分"
+
+msgctxt "ReosMapToolEditPolygon_p|"
+msgid "Insert vertex"
+msgstr "插入向量节点"
+
+msgctxt "ReosMapToolEditPolygon_p|"
+msgid "Remove vertex"
+msgstr "刪除向量节点"
+
+msgctxt "ReosMeteorologicItemModel|"
+msgid "Associated rainfall"
+msgstr "链接降雨量"
+
+msgctxt "ReosMeteorologicItemModel|"
+msgid "Watershed"
+msgstr "汇水区"
+
+msgctxt "ReosMeteorologicStructureItemModel|"
+msgid "Associated rainfall"
+msgstr "链接降雨量"
+
+msgctxt "ReosProcessControler|"
+msgid "Operation canceled..."
+msgstr "操作已取消..."
+
+msgctxt "ReosProcessControler|"
+msgid "Processing..."
+msgstr "处理 ..."
+
+msgctxt "ReosHydraulicElementPropertiesWidget|"
+msgid "No hydraulic element selected"
+msgstr "沒有水力元件被选择"
+
+msgctxt "ReosHydraulicElementPropertiesWidget|"
+msgid "No Element Selected"
+msgstr "沒有元件被选择"
+
+msgctxt "ReosMessageBox|"
+msgid "Warning: "
+msgstr "警示 :"
+
+msgctxt "ReosMessageBox|"
+msgid "Error: "
+msgstr "错误 Error  :"
+
+msgctxt "ReosMessageBox|"
+msgid "Messages"
+msgstr "訊息內容"
+
+msgctxt "ReosFormJunctionBoundaryConditionWidget|"
+msgid "Hydrograph"
+msgstr "曲线"
+
+msgctxt "ReosApplication|"
+msgid "Exception"
+msgstr "例外"
+
+msgctxt "ReosUniqueIdfCurveSyntheticRainfall|"
+msgid "Total Duration"
+msgstr "总延时"
+
+msgctxt "ReosUniqueIdfCurveSyntheticRainfall|"
+msgid "Eccentricity"
+msgstr "偏心率"
+
+msgctxt "ReosParameterDateTime|"
+msgid "Date/Time"
+msgstr "日期/时间"
+
+msgctxt "ReosWatershedDockWidget|"
+msgid "Watershed"
+msgstr "汇水区"
+
+#, qt-format
+msgctxt "ReosRainfallRegistery|"
+msgid "Rainfall data loaded from file: %1"
+msgstr "降雨数据加载由文件: %1"
+
+#, qt-format
+msgctxt "ReosRainfallRegistery|"
+msgid "Rainfall data saved to file:%1"
+msgstr "降雨数据保存到文件: %1"
+
+#, qt-format
+msgctxt "ReosWatershedTree|"
+msgid "Watershed-%1"
+msgstr "汇水区-%1"
+
+msgctxt "ReosFormBaseJunctionNodeWidget|"
+msgid "Gauged Hydrographs Manager"
+msgstr "测站曲线管理"
+
+msgctxt "ReosRasterAverageValueInPolygon|"
+msgid "Prepare calculation"
+msgstr "事先计算"
+
+msgctxt "ReosHydraulicElementPropertiesActionWidget|"
+msgid "No Element Selected"
+msgstr "沒有元件被选择"
+
+msgctxt "ReosMapCursorPosition|"
+msgid "Map Coordinate : "
+msgstr "地图坐标: "
+
+msgctxt "ReosIntensityDurationCurve|"
+msgid "Return period"
+msgstr "重现期"
+
+msgctxt "ReosParameterSlope|"
+msgid "Average slope"
+msgstr "平均坡度"
